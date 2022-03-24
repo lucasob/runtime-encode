@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RuntimeEncoder", "RuntimeEncoder\RuntimeEncoder.fsproj", "{44B31853-3502-453E-9CAD-F719C83117A4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestRuntimeEncoder", "TestRuntimeEncoder\TestRuntimeEncoder.fsproj", "{229487AA-1379-47F1-AFC0-1911B8BD4048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B31853-3502-453E-9CAD-F719C83117A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B31853-3502-453E-9CAD-F719C83117A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B31853-3502-453E-9CAD-F719C83117A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B31853-3502-453E-9CAD-F719C83117A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229487AA-1379-47F1-AFC0-1911B8BD4048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229487AA-1379-47F1-AFC0-1911B8BD4048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229487AA-1379-47F1-AFC0-1911B8BD4048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229487AA-1379-47F1-AFC0-1911B8BD4048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

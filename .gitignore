@@ -1,0 +1,9 @@
+# Ignore Rider stuff
+.idea/
+
+# Executables
+*/bin/
+*/obj/
+
+# Who even knows
+TextEncoder.sln.DotSettings.user
